@@ -23,4 +23,5 @@ while True:
         print('operação invalida')
         continue
 
+
     print(f'O resultado da operação {n1} {op} {n2} é: {resultado:.2f}')
